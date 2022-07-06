@@ -1,0 +1,18 @@
+.header {
+    font-size: 32px;
+    font-weight: bold;
+    color: navy;
+    border: hidden;
+    background-color: white;
+    float: left;
+    cursor: pointer;
+    padding: 10px 10px;
+}
+
+a.header {
+    display: inline;
+}
+
+a.header:hover {
+    background-color: #C4C4C4;
+}
